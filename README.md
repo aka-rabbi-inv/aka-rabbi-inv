@@ -54,9 +54,9 @@
   </tbody>
 </table>
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="stat" align="center" height="165" width="auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-rabbi-inv&hide=html,css&layout=compact" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-rabbi-inv&hide=html,css&theme=dark&layout=compact" />
   </a>
 </div>
